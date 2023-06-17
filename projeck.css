@@ -1,0 +1,52 @@
+.navbar{ display: flex;flex-direction: row;width: 1926px; justify-content: space-between; margin: auto;
+padding: 32px 0px; align-items: center;
+}
+.menu {display: flex;flex-direction: row; gap: 25px; 
+}
+.menubar{
+    display: flex;flex-direction: row; gap: 45px;  font-family: Verdana, Geneva, Tahoma, sans-serif;  font-weight: 800; color: #817382; align-items: center; border-radius: 10%; gap: 45px;
+} 
+.menu2{
+    display: flex;flex-direction: row; gap: 10px; align-items: center;
+}
+.contakclass{
+    padding: 12px 20px;
+    background-color: #ffe4d9;
+    color: #f95c19;
+    font-weight: 700;
+    gap: 10px; width: fit-content;
+    border-radius: 5px;
+}
+.baris1{
+    display: flex;flex-direction: row; margin: auto; justify-content: space-between; width: 1500px; align-items: center; gap: 40px;
+  padding: 100px opx;
+}
+
+.baris2{
+   display: flex;flex-direction: column;
+   justify-items: left; gap: 40px;
+}
+
+.cardI{display: flex; flex-direction: row; gap: 20px;justify-content: center;
+            }
+.cardII{
+                display: flex; flex-direction:column ; justify-items: center;width: 300px; background-color:white ; gap: 20px;padding: 50px;
+            }
+.cardIII{font-size: 25px;font-weight: 800; text-align: center;
+            }
+.cardIV{text-align: center;
+ border:chocolate;
+  background-color: #f95c19; color: white; width: 301px; height: 40px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 20px; font-weight: 700px; border-radius: 5px
+}
+.simbol0{
+    display: flex;flex-direction: row;  width: 1926px;align-items: center; margin: auto;
+}
+.simbol{
+    margin: auto;align-content: center;width: 50px;height: 50px; align-content: center; font-size: 49px;size: 49px;
+}
+.simbol2{
+    font-weight: 800;font-size: 39px;color: #f95c19; margin: auto; text-align: center;
+}
+.simbol3{
+    font-weight: 700;font-size: 20px;color: #464558; margin: auto;text-align: center;
+}

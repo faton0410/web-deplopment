@@ -1,0 +1,91 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: 1926px;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+  padding: 32px 0px;
+  background-color: yellow;
+}
+.home {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  font-size: 16px;
+  color: #817382;
+  font-weight: 700;
+}
+.search0 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+.search {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  width: fit-content;
+  background-color: #ffe4d9;
+}
+.baris0 {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: space-between;
+  width: 1500px;
+  align-items: center;
+  gap: 40px;
+}
+.baris1 {
+  display: flex;
+  flex-direction: row;
+  justify-items: left;
+  gap: 40px;
+  padding: 100px 0px;
+}
+.baris2 {
+  display: flex;
+  flex-direction: column;
+  gap: 41px;
+}
+
+.baris3 {
+  display: flex;
+  flex-direction: row;
+  background-color: #f95c19;
+  color: white;
+  padding: 12px 20px;
+  gap: 4px;
+  width: fit-content;
+  border-radius: 5px;
+}
+.card0 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+}
+.card1 {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  background-color: white;
+  gap: 20px;
+  padding: 50px;
+}
+.card2 {
+  font-weight: 800;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+.simbol0 {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+.simbol1 {
+}
+.simbol2 {
+}

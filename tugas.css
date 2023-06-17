@@ -1,0 +1,10 @@
+.flex{
+    flex-direction: row; background-color: aqua;
+    display: flex; flex-direction: row;
+}
+.row{
+    background-color: white;
+    flex-direction: column;
+    justify-items: center; width: 300px; gap: 10px; padding: 5px;
+    
+}

@@ -1,0 +1,28 @@
+ul {
+    color: black;
+    text-align: cornflowerblue;
+    font-variant: normal;
+    display: inline;
+}
+  .container_navbar{
+    list-style-type: none;
+     }
+  .pengiriman{
+    text-align: justify; color: blue; font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .bag{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-image: url(expedisi.png)
+  }
+  .linavbar{
+    width: 30%;
+    height: 20%;
+    flex: auto;
+    padding: 10px;
+    list-style-type: none;
+  }
+  .ulnavbar{
+    display: flex;
+    list-style-type: none;
+  
+  }
