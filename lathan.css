@@ -34,7 +34,7 @@
 }
 @media only screen and (max-width: 600px) {
   .sektion1 {
-    flex-direction: column;
+    flex-wrap;
   }
   .seksi3bag1 {
     flex-direction: column;
