@@ -82,13 +82,10 @@
 }
 .simbol0 {
   display: flex;
-  flex-direction: row;
+  /*flex-direction: row;*/
   margin: auto;
 }
-.simbol1 {
-}
-.simbol2 {
-}
+
 .form {
   width: 100%;
   height: 50px;
@@ -96,8 +93,21 @@
   font-weight: 700;
   font-family: "Times New Roman", Times, serif;
 }
+.maps0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
 .maps {
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 17px;
+  font-size: 22px;
+  font-weight: 700px;
+}
+
+@media only screen and (max-width: 600px) {
+  .maps0 {
+    flex-direction: column;
+  }
 }
